@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644207825645",
+    "project_id": "deesporapa",
+    "storage_bucket": "deesporapa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644207825645:android:b05fc743fbea34cd6db2e4",
+        "android_client_info": {
+          "package_name": "com.example.deespora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmmRbcARGhNbJ-zmknfnqTtC-dGkM7gyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
